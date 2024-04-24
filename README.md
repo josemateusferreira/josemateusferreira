@@ -1,5 +1,3 @@
-##Olá! Meu nome é José Mateus
-
 - 👋 Hi, I’m @josemateusferreira
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning PHP, Python, HTML and CSS
