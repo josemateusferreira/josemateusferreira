@@ -1,33 +1,46 @@
-## 💜 Olá, meu nome é José Mateus!
+# 🖤 Welcome to my GitHub
 
-Sou estudante de Ciência da Computação pelo Instituto Federal de Goiás.
-
-- 🌱 I’m currently learning PHP, Python, HTML and CSS
-- 📫 How to reach me josemateus17@outlook.com
-
----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-
+## Who am I?  
+**José Mateus Ferreira**  
+I’m a **Computer Science student** with a growing interest in **Cybersecurity**. I’m currently learning **Python** and picking up skills in the world of **ethical hacking** and **network security**. At the moment, I’m building a **Homelab** to explore and practice real-world security scenarios. 🖥️🔐
 
 ---
 
-## ⭐ GitHub Stats
+### 🚨 Current Focus
+- **Learning Python**: Working on scripts for automating tasks and exploring cybersecurity tools.
+- Building a **Homelab**: Creating a virtual environment to practice networking, security, and penetration testing.
+- Diving into **network security**, **vulnerability analysis**, and **ethical hacking** techniques.
+- Exploring **cryptography** to understand how data is secured and protected.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemateusferreira&show_icons=true)
+---
 
+### 🛠️ Skills & Tools
+- **Languages**:  
+  - Python 🐍
+  - Bash 🖥️ (Linux scripting)
+- **Cybersecurity Tools**:  
+  - Wireshark (Packet analysis)
+  - Metasploit (Pen testing framework)
+  - Nmap (Recon & Scanning)
+- **Networking**:  
+  - TCP/IP, DNS, HTTP/HTTPS protocols
+  - VPN, Firewalls, Routers, Switches
+  - Basic **Linux** management (Ubuntu, Kali Linux)
 
-<!---
-josemateusferreira/josemateusferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Current Projects
+- **Homelab Setup**: Testing network security and running simulations for vulnerability assessments.
+- **Python Scripts**: Automating basic security audits and learning how to identify weaknesses in networks.
+  
+---
+
+### 📫 Get in Touch
+- 💌 Email: [josemateus17@outlook.com](mailto:josemateus17@outlook.com)
+- 🔗 LinkedIn: [josemateusferreira](https://www.linkedin.com/in/josemateusferreira)
+- 🐦 Twitter: [@josemateus09](https://twitter.com/josemateus09)
+
+---
+
+### 🔥 Let's Connect
+I'm always open to learning from others, discussing security, or collaborating on projects. If you're into **cybersecurity**, **ethical hacking**, or have some cool project ideas, feel free to reach out!
