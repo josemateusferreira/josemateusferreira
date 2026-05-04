@@ -11,7 +11,7 @@
 ## 👤 Sobre Mim
 **José Mateus Ferreira**
 * 🎓 Estudante de **Ciência da Computação** (IFG - 7º período)
-* 🛠️ Integrante da **V-Nexu (Software House)**
+* 🛠️ Integrante da **V-Nexus (Software House)**
 * 🧠 Pesquisador focado em **Large Language Models (LLMs)** e Automação Inteligente
 * 🏗️ Desenvolvendo soluções de **IA Generativa** para problemas do mundo real
 
