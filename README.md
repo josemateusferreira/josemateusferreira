@@ -1,30 +1,37 @@
-# 💻 Software Developer | Pesquisador em IA
+# AI Engineer & Software Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Foco-AI%20Engineering%20%26%20Software%20Development-blueviolet?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/Status-7º%20Semestre%20C.C.%20%7C%20Code%20Tower-white?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20IA%20%7C%20Desenvolvimento-yellow?style=for-the-badge&logo=python" />
-</p>
+* Foco: AI Engineering & LLMs
+* Status: 7º Semestre de Ciência da Computação | Code Tower
+* Stack Principal: Python | PyTorch | Docker
 
 ---
 
-## 👤 Sobre Mim
-**José Mateus Ferreira**
-* 🎓 Graduando em **Ciência da Computação** no IFG (7º semestre).
-* 💻 Desenvolvedor de Software na **Code Tower** (Empresa Júnior).
-* 🧠 Pesquisador focado em **Inteligência Artificial** e Processamento de Linguagem Natural (NLP).
-* 🏗️ Desenvolvendo soluções para automação de processos e extração inteligente de dados.
+## Sobre Mim
+
+Olá! Sou o José Mateus. Atualmente curso Ciência da Computação no IFG (7º semestre) e atuo como Desenvolvedor em IA no Projeto Aurora. 
+
+Meu foco principal de trabalho e estudo está na intersecção entre Engenharia de Software e Inteligência Artificial. Atuo aplicando Processamento de Linguagem Natural (NLP) e Large Language Models (LLMs) para construir pipelines de automação e extração de dados textuais.
 
 ---
 
-## 🚀 Foco Técnico
-- 🏗️ **Implementação de IA:** Fine-tuning e integração de Large Language Models (LLMs) para resolução de problemas complexos.
-- ⚙️ **Otimização de Sistemas:** Aplicação de métricas avançadas e algoritmos de busca para melhoria de performance de software.
-- 📊 **Automação de Dados:** Transformação de fluxos de informação não estruturada em dados úteis e organizados.
+## Projeto em Destaque
+
+### Projeto Aurora — Extração Inteligente de Dados
+Desenvolvimento de uma solução de IA focada na automação e extração de dados estruturados a partir de documentos acadêmicos, como diplomas e certificados.
+* **Stack:** Python, Hugging Face (Gemma/Qwen), Prompt Engineering avançado e estratégias de OCR.
+* **Impacto:** Transformação de fluxos de documentos e PDFs não estruturados em dados padronizados para apoio à tomada de decisão em processos universitários.
 
 ---
 
-## 🛠️ Tech Stack
+## Foco Técnico
+
+* **Modelos de Linguagem (LLMs):** Integração de LLMs comerciais/open-source e experimentação com técnicas de Fine-Tuning (LoRA/QLoRA) via Hugging Face.
+* **Pipelines de Dados & RAG:** Desenvolvimento de rotinas para extrair, processar e estruturar dados textuais não estruturados para sistemas de busca semântica.
+* **Engenharia de Software:** Arquitetura de APIs em Python, engenharia reversa, modelagem de bancos de dados relacionais e containerização com Docker.
+
+---
+
+## Tech Stack
 
 **Linguagens & IA**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,21 +39,18 @@
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
 
-**Desenvolvimento & Infra**
+**Infraestrutura & Ferramentas**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📫 Conecta-te Comigo
+## Contato
+
+Seja para discutir sobre arquitetura de sistemas, LLMs open-source ou oportunidades de colaboração, entre em contato:
+
 <p align="left">
   <a href="mailto:josemateus17@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/josemateusferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/josemateusferreira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-🔥 *Focado em resolver problemas reais através de engenharia de software e inteligência artificial.*
