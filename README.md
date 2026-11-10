@@ -1,62 +1,126 @@
-# AI Engineer & Software Developer
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="José Mateus — Dev Jr em IA, rumo a AI Engineer" />
+</p>
 
-* Foco: AI Engineering & LLMs
-* Status: 8º Semestre de Ciência da Computação (IFG) | Desenvolvedor Jr @ OrigoX
-* Stack Principal: Python | PyTorch | Docker
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=900&color=3DE0FF&center=true&vCenter=true&width=720&height=40&lines=%3E+carregando+pesos+do+modelo...+OK;%3E+treinando+LLMs+com+LoRA+%2F+QLoRA;%3E+automatizando+o+mercado+de+futuros;%3E+next+level%3A+AI+Engineer" alt="typing" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josemateusferreira&color=ff4d9d&style=flat-square&label=PLAYERS+ONLINE" />
+  <img src="https://img.shields.io/badge/STAGE-8%C2%BA%20SEMESTRE%20%40%20IFG-1a1033?style=flat-square&labelColor=ffd23f" />
+  <img src="https://img.shields.io/badge/GUILD-ORIGOX-1a1033?style=flat-square&labelColor=3de0ff" />
+</p>
 
-## Sobre Mim
+## 👾 Player 1
 
-Olá! Sou o José Mateus. Atualmente curso Ciência da Computação no IFG (8º semestre), atuo como Desenvolvedor Jr em Inteligência Artificial na **OrigoX** e como Desenvolvedor em IA no **Projeto Aurora**.
+```text
+┌────────────────────────────────────────────┐
+│  NOME ............ José Mateus             │
+│  CLASSE .......... Dev Jr em IA            │
+│  GUILDA .......... OrigoX                  │
+│  ESCOLA .......... Ciência da Computação   │
+│                    IFG · 8º semestre       │
+│  PRÓXIMA FORMA ... AI Engineer             │
+│  ARMA PRINCIPAL .. Python + IA             │
+└────────────────────────────────────────────┘
+```
 
-Meu foco de trabalho e pesquisa está na intersecção entre Engenharia de Software e Inteligência Artificial. Atuo no desenvolvimento de soluções de IA aplicada: desde modelos para automação e tomada de decisão em operações de futuros no mercado financeiro até pipelines de Processamento de Linguagem Natural (NLP) e Large Language Models (LLMs) para extração inteligente de dados textuais.
+Sou Desenvolvedor Jr em IA, evoluindo para **AI Engineer**. Jogo na fase entre Engenharia de Software e Inteligência Artificial: modelos que apoiam decisões no mercado de futuros e pipelines de NLP e LLMs que transformam texto bagunçado em dados estruturados.
 
----
+## ⚔️ Quests
 
-## Experiência & Projetos em Destaque
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### OrigoX - IA para Mercado Financeiro (Futuros)
-Atuação como Desenvolvedor Jr no design e implementação de soluções de inteligência artificial voltadas para a automação e suporte a operações no mercado de futuros.
-* **Foco:** Engenharia de dados financeiros, modelagem preditiva/decisória e automação de rotinas de execução e análise de mercado.
-* **Stack:** Python, modelagem analítica/quantitativa, pipelines em tempo real e integração de sistemas.
+### 📈 OrigoX - Desenvolvedor Jr
+**🟢 Quest ativa** · set/2026 - Até hoje
 
-### Projeto Aurora - Extração Inteligente de Dados
-Desenvolvimento de uma solução de IA focada na automação e extração de dados estruturados a partir de documentos acadêmicos, como diplomas e certificados.
-* **Stack:** Python, Hugging Face (Gemma/Qwen), Prompt Engineering avançado e estratégias de OCR.
-* **Impacto:** Transformação de fluxos de documentos e PDFs não estruturados em dados padronizados para apoio à tomada de decisão em processos universitários.
+IA para automação e suporte a operações no mercado de futuros.
 
----
+- Engenharia de dados financeiros
+- Modelagem preditiva e decisória
+- Automação de rotinas de execução e análise
+- Pipelines em tempo real e integração de sistemas
 
-## Foco Técnico
+</td>
+<td width="50%" valign="top">
 
-* **IA Aplicada & Mercado Financeiro:** Desenvolvimento de algoritmos e automação de operações orientadas a dados para contratos futuros e séries temporais/financeiras.
-* **Modelos de Linguagem (LLMs):** Integração de LLMs comerciais/open-source e experimentação com técnicas de Fine-Tuning (LoRA/QLoRA) via Hugging Face.
-* **Pipelines de Dados & RAG:** Desenvolvimento de rotinas para extrair, processar e estruturar dados não estruturados para sistemas de busca semântica e processamento automatizado.
-* **Engenharia de Software:** Arquitetura de APIs em Python, modelagem de bancos de dados relacionais e containerização de microsserviços com Docker.
+### 🎓 Projeto Aurora - Pesquisador em IA
+**✅ Quest concluída** · nov/2025 – nov/2026
 
----
+Extração inteligente de dados de diplomas e certificados.
 
-## Tech Stack
+- LLMs open-source (Gemma / Qwen)
+- Prompt engineering avançado
+- OCR para PDFs não estruturados
+- Dados padronizados para processos universitários
 
-**Linguagens & IA**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Infraestrutura & Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary><b>🗺️ Mapa da quest Aurora</b></summary>
+<br>
 
----
+```mermaid
+flowchart LR
+    A[📄 PDF / Imagem] --> B[🔎 OCR]
+    B --> C[🧹 Limpeza]
+    C --> D[🤖 LLM<br/>Gemma / Qwen]
+    D --> E[🧩 JSON]
+    E --> F[(🗄️ Banco)]
+```
 
-## Contato
+</details>
 
-Seja para discutir sobre arquitetura de sistemas, LLMs, inteligência artificial aplicada ao mercado financeiro ou oportunidades de colaboração, entre em contato:
+## 🎒 Inventário
 
-<p align="left">
-  <a href="mailto:josemateus17@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/josemateusferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,postgres,git,linux,fastapi&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-ffd23f?style=flat-square&logo=huggingface&logoColor=1a1033" />
+  <img src="https://img.shields.io/badge/Transformers-ff4d9d?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-3de0ff?style=flat-square&logoColor=1a1033" />
+  <img src="https://img.shields.io/badge/RAG-f2ecff?style=flat-square" />
+</p>
+
+## 📊 Atributos
+
+```text
+PYTHON / ENG. SOFTWARE   ■■■■■■■■■□  LV 9
+LLMs & PROMPTS           ■■■■■■■■□□  LV 8
+NLP & EXTRAÇÃO           ■■■■■■■■□□  LV 8
+PYTORCH / FINE-TUNING    ■■■■■■■□□□  LV 7
+IA PARA EXTRAÇÃO         ■■■■■■■□□□  LV 7
+DOCKER & SERVIÇOS        ■■■■■■■□□□  LV 7
+```
+
+## 🐍 Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josemateusferreira/josemateusferreira/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josemateusferreira/josemateusferreira/output/github-snake.svg" />
+    <img alt="snake comendo as contribuições" src="https://raw.githubusercontent.com/josemateusferreira/josemateusferreira/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josemateusferreira&hide_border=true&background=1a1033&ring=ff4d9d&fire=ffd23f&currStreakNum=3de0ff&sideNums=f2ecff&currStreakLabel=ffd23f&sideLabels=3de0ff&dates=a99bd1&stroke=3a2a66" />
+</p>
+
+## 💾 Save Point
+
+<p align="center">
+  <a href="mailto:josemateus17@outlook.com"><img src="https://img.shields.io/badge/EMAIL-1a1033?style=for-the-badge&logo=microsoftoutlook&logoColor=3de0ff"/></a>
+  <a href="https://linkedin.com/in/josemateusferreira"><img src="https://img.shields.io/badge/LINKEDIN-1a1033?style=for-the-badge&logo=linkedin&logoColor=ff4d9d"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for playing" />
 </p>
