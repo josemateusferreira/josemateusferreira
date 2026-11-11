@@ -111,7 +111,7 @@ DOCKER & SERVIÇOS        ■■■■■■■□□□  LV 7
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josemateusferreira&hide_border=true&background=1a1033&ring=ff4d9d&fire=ffd23f&currStreakNum=3de0ff&sideNums=f2ecff&currStreakLabel=ffd23f&sideLabels=3de0ff&dates=a99bd1&stroke=3a2a66" />
+  <img src="https://streak-stats.demolab.com?user=josemateusferreira&hide_border=true&background=1a1033&ring=ff4d9d&fire=ffd23f&currStreakNum=3de0ff&sideNums=f2ecff&currStreakLabel=ffd23f&sideLabels=3de0ff&dates=a99bd1&stroke=3a2a66&v=2" />
 </p>
 
 ## 💾 Save Point
